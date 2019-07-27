@@ -51,7 +51,6 @@ public class main {
     }
 
     public static String showMenu(){
-        //i solved my problem adding the following 2 lines of code...
         JFrame frame = new JFrame();
         frame.setAlwaysOnTop(true);
 
